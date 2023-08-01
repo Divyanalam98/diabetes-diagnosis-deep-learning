@@ -1,5 +1,6 @@
 # Predicting Diabetes Diagnosis with Deep Learning
 
+
 ![image](https://github.com/Divyanalam98/diabetes-diagnosis-deep-learning/assets/63960112/28193211-44f8-411d-aced-8dc53160967c)
 
 PyTorch and TensorFlow facilitate diabetes diagnosis by leveraging deep learning techniques to analyze medical data. 
